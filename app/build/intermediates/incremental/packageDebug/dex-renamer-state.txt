@@ -1,0 +1,7 @@
+#Mon Jun 11 09:14:28 PDT 2018
+base.0=/Users/yoshizawarei/AndroidStudioProjects/FragmentExample_start/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0a6c70ed85bc24960e50de6a76217c50606a4402
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/yoshizawarei/AndroidStudioProjects/FragmentExample_start/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_54ac4f53b031d60bc52902028c439a73ca711955/classes.dex
+base.1=/Users/yoshizawarei/AndroidStudioProjects/FragmentExample_start/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_54ac4f53b031d60bc52902028c439a73ca711955
+file.0=/Users/yoshizawarei/AndroidStudioProjects/FragmentExample_start/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_0a6c70ed85bc24960e50de6a76217c50606a4402/classes.dex
